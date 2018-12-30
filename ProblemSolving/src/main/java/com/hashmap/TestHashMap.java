@@ -1,5 +1,11 @@
 package com.hashmap;
 
+/**
+ * @author VIJAY
+ * A HashMap is divided in buckets and each bucket will have
+ * linkedList of elements. Which bucket a particular element would fall
+ * depends on the hashCode of the key.
+ */
 public class TestHashMap {
 
 	public static void main(String[] args) {
